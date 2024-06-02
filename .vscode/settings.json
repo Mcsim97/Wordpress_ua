@@ -1,2 +1,8 @@
-{"liveServer.settings.host": "0.0.0.0",
-"liveServer.settings.port": 5500}
+{
+    "liveServer.settings.port": 5500,
+"editor.autoClosingBrackets": "always",
+"workbench.statusBar.visible": true,
+"workbench.sideBar.location": "left",
+"workbench.tree.stickyScrollMaxItemCount": 1,
+"liveServer.settings.useLocalIp": true
+}
